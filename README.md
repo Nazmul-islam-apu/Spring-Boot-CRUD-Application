@@ -5,4 +5,4 @@ List of the tools that I have used here:
 1. Spring Boot
 2. Spring Data Jpa
 3. MySQL for the database
-4. Thymleaf
+4. Thymeleaf
